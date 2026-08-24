@@ -394,12 +394,7 @@ small {
     flex-direction: column;
   }
 
-  .task .ghost {
-    display: none;
-  }
-
-  .task:focus-within .ghost,
-  .task:hover .ghost {
-    display: inline;
+  .ghost {
+    padding: 0.2rem 0;
   }
 }
