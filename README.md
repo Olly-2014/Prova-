@@ -2,6 +2,10 @@
 
 App personale per la giornata: attività, note e abitudini. I dati restano sul dispositivo (localStorage), senza account.
 
+Sito: https://olly-2014.github.io/Prova-/
+
+`index.html` e `assets/` sono la build per GitHub Pages. Per sviluppare usa `app.html` e `npm run dev`.
+
 ## Avvio
 
 ```bash
